@@ -1,3 +1,3 @@
-# angular-jtjgfa
+# How to use the vue component in an angular project
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-jtjgfa)
+[Preview on StackBlitz ⚡️](https://stackblitz.com/edit/angular-jtjgfa)
